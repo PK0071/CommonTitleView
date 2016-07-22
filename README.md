@@ -1,6 +1,7 @@
 # CommonTitleView
 
-##自定义的组合控件，一个开发中常用的公用的标题栏，左中右都包含有iamgeview和textview
+##自定义的组合控件，常用的公用的标题栏
+左中右都包含有iamgeview和textview
 ![image](http://7xrn7f.com1.z0.glb.clouddn.com/16-7-22/17401999.jpg)
 
 不想down下来的，可以去我的博客里面先看一下，有贴源码。[Blog](http://blog.csdn.net/pk0071/article/details/51488644)
