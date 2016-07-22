@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 标题栏自定义属性 -->
+    <declare-styleable name="CommonTitleView">
+        <attr name="leftImageView" format="reference"></attr>
+        <attr name="leftTextView" format="string"></attr>
+        <attr name="middleImageView" format="reference"></attr>
+        <attr name="middleTextView" format="string"></attr>
+        <attr name="rightImageView" format="reference"></attr>
+        <attr name="rightTextView" format="string"></attr>
+    </declare-styleable>
+
+    <!-- ViewPagerIndicator自定义属性 -->
+    <declare-styleable name="ViewPagerIndicator">
+        <attr name="titleCount" format="integer"></attr>
+    </declare-styleable>
+</resources>
